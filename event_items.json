@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": "test-event-1",
+      "title": "Test Event One",
+      "description": "This is a test event",
+      "url": "https://example.com/event/1",
+      "publishedAt": "2026-02-04T12:00:00Z",
+      "source": "test"
+    },
+    {
+      "id": "test-event-2",
+      "title": "Test Event Two",
+      "description": "Another test event",
+      "url": "https://example.com/event/2",
+      "publishedAt": "2026-02-04T13:00:00Z",
+      "source": "test"
+    }
+  ]
+}
