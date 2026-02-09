@@ -15,6 +15,31 @@
       "url": "https://example.com/event/4",
       "publishedAt": "2026-02-08T13:00:00Z",
       "source": "test"
+    },
+    {
+      "id": "test-event-5",
+      "title": "Test Event Three",
+      "description": "Third test event to verify re-publishing",
+      "url": "https://example.com/event/5",
+      "publishedAt": "2026-02-08T14:00:00Z",
+      "source": "test"
+    },
+    {
+      "id": "test-event-6",
+      "title": "Test Event Four",
+      "description": "Fourth test event with a later timestamp",
+      "url": "https://example.com/event/6",
+      "publishedAt": "2026-02-08T15:00:00Z",
+      "source": "test"
+    },
+    {
+      "id": "test-event-7",
+      "title": "Test Event Five",
+      "description": "Final test event to confirm end-to-end delivery",
+      "url": "https://example.com/event/7",
+      "publishedAt": "2026-02-08T16:00:00Z",
+      "source": "test"
     }
   ]
 }
+
